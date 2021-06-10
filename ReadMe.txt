@@ -1,0 +1,1 @@
+Detecting common objects in the scene is enabled through a single function call detect_common_objects(). It will return the bounding box co-ordinates, corrensponding labels and confidence scores for the detected objects in the image.
